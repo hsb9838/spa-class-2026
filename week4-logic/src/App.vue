@@ -155,15 +155,6 @@ const deleteMovie = (targetId) => {
   font-family: sans-serif;
 }
 
-body {
-  background-color: #ffffff;
-  margin: 0;
-}
-
-#app {
-  background-color: #ffffff;
-  min-height: 100vh;
-}
 
 .search-area {
   margin: 20px 0;
